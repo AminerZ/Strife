@@ -6,5 +6,5 @@ Engine/vendor/
 
 # Files
 *.user
-.vcxproj
-.vcxproj.filters
+*.vcxproj
+*.vcxproj.filters
